@@ -1,0 +1,50 @@
+{
+  "site": {
+    "name": "ApexBart Solutions",
+    "tagline": "Raqamli kommunikatsiyangizni eng zamonaviy AI yechimlari bilan o'zgartiring"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "projects": "Loyihalar", 
+    "blog": "Blog",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title": "AI va ovoz texnologiyasida innovatsiyalar",
+    "subtitle": "Ko'p tilli AI yechimlari bilan biznesni kuchaytirish",
+    "cta": {
+      "primary": "Boshlash",
+      "secondary": "Batafsil"
+    }
+  },
+  "services": {
+    "title": "Bizning xizmatlar",
+    "ai": {
+      "title": "AI ijtimoiy tarmoqlar",
+      "description": "Ijtimoiy tarmoqlardagi faoliyatni avtomatlashtirish va optimallashtirish"
+    },
+    "voice": {
+      "title": "Ovoz yozish",
+      "description": "Professional ko'p tilli ovoz yozish xizmatlari"
+    },
+    "translation": {
+      "title": "Tarjima va lokalizatsiya",
+      "description": "Turli tillarda aniq tarjima xizmatlari"
+    },
+    "content": {
+      "title": "Kontent yaratish",
+      "description": "Auditoriyangiz uchun qiziqarli kontent"
+    }
+  },
+  "contact": {
+    "title": "Biz bilan bog'lanish",
+    "form": {
+      "name": "Ism",
+      "email": "Email",
+      "message": "Xabar",
+      "submit": "Yuborish"
+    }
+  }
+}

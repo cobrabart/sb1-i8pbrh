@@ -1,0 +1,50 @@
+{
+  "site": {
+    "name": "ApexBart Solutions",
+    "tagline": "Transform your digital communication with our cutting-edge AI solutions"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Innovating AI & Voice Technology",
+    "subtitle": "Empowering businesses with multilingual AI solutions",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Learn More"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "ai": {
+      "title": "AI-Powered Social Media",
+      "description": "Automate and optimize your social media presence"
+    },
+    "voice": {
+      "title": "Voice Recording",
+      "description": "Professional multilingual voice recording services"
+    },
+    "translation": {
+      "title": "Translation & Localization",
+      "description": "Accurate translation services in multiple languages"
+    },
+    "content": {
+      "title": "Content Creation",
+      "description": "Engaging content that resonates with your audience"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
